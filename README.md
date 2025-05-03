@@ -1,5 +1,4 @@
-# civil-engineering
-tools for civil engineering 
+
 # ОБЩИЕ УКАЗАНИЯ
 
 ## Введение
